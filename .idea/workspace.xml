@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b80500-4a7e-4704-af4d-3b7ac52fa95d" name="Changes" comment="calculator.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fartow/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fartow/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fartow/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="65b80500-4a7e-4704-af4d-3b7ac52fa95d" name="Changes" comment="End of calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +45,13 @@
       <option name="presentableId" value="Default" />
       <updated>1665652119126</updated>
     </task>
+    <task id="LOCAL−00001" summary="calculator.">
+      <created>1665686138164</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1665686138164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
