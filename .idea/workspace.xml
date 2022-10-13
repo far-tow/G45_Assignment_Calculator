@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="65b80500-4a7e-4704-af4d-3b7ac52fa95d" name="Changes" comment="End of calculator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fartow/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fartow/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fartow/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fartow/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1665686580128</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="End of calculator">
+      <created>1665687778399</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1665687778399</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="calculator." />
     <MESSAGE value="End of calculator!" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of calculator!" />
+    <MESSAGE value="End of calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of calculator" />
   </component>
 </project>
