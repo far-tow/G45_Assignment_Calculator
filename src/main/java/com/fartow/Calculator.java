@@ -1,5 +1,7 @@
 package com.fartow;
 
+import java.util.Scanner;
+
 public class Calculator {
 
     public static void displayMenu() {
@@ -16,19 +18,31 @@ public class Calculator {
     }
 
     public static double addition(double number1, double number2) {
-        return number1 + number2;
+
+        return  number1 +  number2;
     }
 
     public static double subtraction(double number1, double number2) {
+
         return number1 - number2;
     }
 
     public static double multiplication(double number1, double number2) {
+
         return number1 * number2;
     }
 
     public static double division(double number1, double number2) {
+
         return number1 / number2;
+    }
+
+
+    public static double getInputNumber(){
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter a number: ");
+        return sc.nextDouble();
     }
 
 }
